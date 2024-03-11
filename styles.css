@@ -1,1 +1,29 @@
-/* your code */
+	tr:nth-child(even){
+		background-color:#DDDDDD;
+}
+table{
+		border:1px hidden white;
+		border-radius: 25px;
+	 border-collapse: collapse;
+	
+	
+}
+thead{
+		background-color:#215A8E;
+}
+th{
+		color:white;
+	padding-top:12px;
+			padding-bottom:12px;
+	
+}
+*{
+	 font-family: "Segoe UI", Arial, sans-serif;
+	
+}
+td{
+		padding-top:15px;
+			padding-bottom:15px;
+		padding-right:50px;
+		padding-left:50px;
+}
